@@ -27,6 +27,11 @@ Um sistema CRUD desenvolvido em Java, demonstrando minhas habilidades de desenvo
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=alysson97&show_icons=true&theme=radical)
 
+
+## 📈 Estatísticas Adicionais
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alysson97&layout=compact)](https://github.com/alysson97)
+
 ## 📫 Contato
 
 - LinkedIn: [Alysson Victoria](https://linkedin.com/in/alysson-ferreira-victoria-510a60162/)
@@ -38,5 +43,9 @@ Aprimorando minhas habilidades construindo CRUD's e adquirindo mais conhecimento
 
 Espero que você encontre algo interessante por aqui! Sinta-se à vontade para explorar meus projetos e entrar em contato. Vamos criar algo incrível juntos! 🚀
 
----
+
+
+
+
+
 
