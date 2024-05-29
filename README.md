@@ -14,7 +14,7 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia e estou constan
 
 ## 🚀 Projetos Destacados
 
-### 1. [My_Portfolio](https://github.com/alysson97/MyPortfolio)
+### 1. [My_Portfolio](https://github.com/alysson97/My_Portfolio)
 Meu portfólio pessoal que destaca meus projetos e experiências. Dê uma olhada!
 
 ### 2. [Aline_Fotografia](https://github.com/alysson97/aline-fotografia)
