@@ -34,7 +34,7 @@ Um sistema CRUD desenvolvido em Java, demonstrando minhas habilidades de desenvo
 
 ## 📫 Contato
 
-- LinkedIn: [Alysson Victoria](https://linkedin.com/in/alysson-ferreira-victoria-510a60162/)
+- LinkedIn: [Alysson Victoria](https://linkedin.com/in/alysson-victoria-510a60162/)
 - Portfolio: [Alysson Victoria](https://alysson-victoria.vercel.app/)
 
 ## 🌱 Aprendendo Atualmente
