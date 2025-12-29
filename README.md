@@ -20,8 +20,6 @@ Meu portfólio pessoal que destaca meus projetos e experiências. Dê uma olhada
 ### 2. [Aline_Fotografia](https://github.com/alysson97/aline-fotografia)
 Um projeto dedicado à paixão pela fotografia, mostrando meu lado criativo.
 
-### 3. [CRUD_JAVA](https://github.com/alysson97/CRUD_JAVA)
-Um sistema CRUD desenvolvido em Java, demonstrando minhas habilidades de desenvolvimento back-end.
 
 ## 📈 Estatísticas do GitHub
 
