@@ -7,8 +7,8 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia e estou constan
 
 ## 🔧 Tecnologias e Ferramentas
 
-- Linguagens: PHP, JavaScript, Java, C
-- Frameworks: NextJS, React, AWT, Laravel
+- Linguagens: PHP, TypeScript, C++
+- Frameworks: NextJS, React, NestJS, Laravel
 - Banco de Dados: SQL Server
 - Outras: Debian, SysAdmin, Git
 
@@ -21,23 +21,12 @@ Meu portfólio pessoal que destaca meus projetos e experiências. Dê uma olhada
 Um projeto dedicado à paixão pela fotografia, mostrando meu lado criativo.
 
 
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=alysson97&show_icons=true&theme=radical)
-
-
-## 📈 Estatísticas Adicionais
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alysson97&layout=compact)](https://github.com/alysson97)
 
 ## 📫 Contato
 
 - LinkedIn: [Alysson Victoria](https://linkedin.com/in/alysson-victoria-510a60162/)
 - Portfolio: [Alysson Victoria](https://alysson-victoria.vercel.app/)
 
-## 🌱 Aprendendo Atualmente
-
-Aprimorando minhas habilidades construindo CRUD's e adquirindo mais conhecimentos sobre sistemas operacionais.
 
 Espero que você encontre algo interessante por aqui! Sinta-se à vontade para explorar meus projetos e entrar em contato. Vamos criar algo incrível juntos! 🚀
 
