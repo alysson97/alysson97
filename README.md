@@ -3,14 +3,17 @@
 
 # 👋 Olá, eu sou Alysson Victoria!
 
-Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia e estou constantemente explorando novas maneiras de criar soluções inovadoras. Aqui, você encontrará uma variedade de projetos que refletem meu interesse e habilidades.
+Backend-focused full-stack developer.
+Experiência com sistemas financeiros, open source e engenharia de software.
 
 ## 🔧 Tecnologias e Ferramentas
 
-- Linguagens: PHP, TypeScript, C++
+- Linguagens: PHP, Node.js, TypeScript, C++
 - Frameworks: NextJS, React, NestJS, Laravel
 - Banco de Dados: SQL Server
 - Outras: Debian, SysAdmin, Git
+-  Mensageria, cache, sistemas distribuídos
+-  Open source contributor (rAthena, openboleto)
 
 ## 🚀 Projetos Destacados
 
